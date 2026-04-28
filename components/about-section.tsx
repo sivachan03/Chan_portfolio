@@ -28,7 +28,7 @@ export function AboutSection() {
   }, []);
 
   return (
-    <section className="min-h-screen flex items-center justify-center px-4 sm:px-6 md:px-8 py-16 sm:py-20">
+    <section className="min-h-screen mt-6 flex items-center justify-center px-4 sm:px-6 md:px-8 py-16 sm:py-20">
       <div className="container mx-auto max-w-6xl">
         <div
           className={`transition-all duration-1000 ${isVisible ? "animate-slide-up opacity-100" : "opacity-0"}`}

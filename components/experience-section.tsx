@@ -30,7 +30,6 @@ const experiences = [
       "Render",
       "N8N Automation",
       "Rag based architecture",
-      
     ],
   },
   {
@@ -85,7 +84,7 @@ export function ExperienceSection() {
     <section
       id="experience"
       ref={sectionRef}
-      className="min-h-screen flex items-center py-16 sm:py-20 px-4 sm:px-6 md:px-8"
+      className="min-h-screen mt-6 flex items-center py-16 sm:py-20 px-4 sm:px-6 md:px-8"
     >
       <div className="container mx-auto w-full">
         <div
