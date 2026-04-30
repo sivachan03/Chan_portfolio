@@ -19,7 +19,7 @@ const projects = [
       "Automated workflow generation using LLMs and RAG for intelligent task execution",
     image: "/livedemo.png",
     technologies: ["N8N", "LangChain", "ChromaDB", "Docker", "Python", "RAG"],
-    liveUrl: "https://agentflow-frontend-production-b537.up.railway.app/", // ← இங்க போடு
+    liveUrl: "https://ai-automation-frontend-v1.onrender.com/", // ← இங்க போடு
     githubUrl: "https://github.com/sivachan03/New_Agent_Automation",
     featured: true,
   },
