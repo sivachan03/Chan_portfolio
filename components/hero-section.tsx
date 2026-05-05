@@ -161,6 +161,8 @@ export function HeroSection() {
                   {"    "}
                   <span className="text-green-400">'ReactJS'</span>
                   <span className="text-white">,</span>{" "}
+                  <span className="text-green-400">'NextJS'</span>
+                  <span className="text-white">,</span>{" "}
                   <span className="text-green-400">'Django'</span>
                   <span className="text-white">,</span>
                   <span className="text-green-400">'LLM'</span>
