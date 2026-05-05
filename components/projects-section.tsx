@@ -77,8 +77,8 @@ const projects = [
       "Responsive portfolio website with modern animations and dark mode",
     image: "/modern-portfolio-website.png",
     technologies: ["Next.js", "Framer Motion", "Tailwind"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://chan-portfolio-topaz.vercel.app/",
+    githubUrl: "https://github.com/sivachan03/Chan_portfolio",
     featured: false,
   },
 ];
