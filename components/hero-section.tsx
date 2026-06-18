@@ -85,7 +85,7 @@ export function HeroSection() {
               >
                 Learn More
               </Button>
-              <a href="/sivachandran.pdf" download="sivachandran.pdf">
+              <a href="/sivachandran.pdf" download>
                 <Button
                   size="lg"
                   className="bg-cyan-400 text-black hover:bg-cyan-300 transition-all duration-300 text-sm sm:text-base"
