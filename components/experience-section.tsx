@@ -16,7 +16,7 @@ const experiences = [
     title: "AI Automation Developer",
     company: "Gotoz Technology ",
     location: "Erode , TamilNadu",
-    period: "Nov 2025 – Apr 2026",
+    period: "Dec 2024 – Apr 2026",
     description:
       "Built AI-powered workflow generation system using N8N + LLM integration. Implemented RAG-based approach using ChromaDB. Improved LLM output accuracy by 5x through context filtering and semantic search. Deployed using Docker and cloud platforms.",
     technologies: [
@@ -36,26 +36,10 @@ const experiences = [
     title: "Full Stack Developer",
     company: "AtoZerv",
     location: "Tirupur, TamilNadu",
-    period: "Oct 2024 – Sep 2025",
+    period: "Feb 2023 – Oct 2024",
     description:
       "Developed end-to-end eCommerce platform with secure authentication and real-time order tracking. Built School Management & Bus Tracking system using Flutter and Django with real-time location sync.",
     technologies: ["Python", "Django", "MySQL", "Flutter", "Dart", "REST API"],
-  },
-  {
-    title: "Technical Trainer & Graphic Design Tutor",
-    company: "CADD Centre | Dream Zone",
-    location: "Tirupur, TamilNadu",
-    period: "Aug 2023 – Sep 2024",
-    description:
-      "Trained 50+ students on Python, HTML, CSS, MySQL, Django and Bootstrap 5. Designed and delivered graphic design modules. Improved student project outcomes by 30% through hands-on mentoring.",
-    technologies: [
-      "Python",
-      "Django",
-      "Bootstrap",
-      "MySQL",
-      "Figma",
-      "HTML/CSS",
-    ],
   },
 ];
 
