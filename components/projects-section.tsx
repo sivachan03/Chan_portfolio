@@ -26,48 +26,10 @@ const projects = [
   {
     title: "E-Commerce Platform",
     description:
-      "Full-stack e-commerce solution with React, Node.js, and Stripe integration",
-    image: "/modern-ecommerce-dashboard.png",
-    technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-    liveUrl: "#",
-    githubUrl: "#",
-    featured: true,
-  },
-  {
-    title: "Task Management App",
-    description: "Collaborative project management tool with real-time updates",
-    image: "/task-management-dashboard.png",
-    technologies: ["Next.js", "TypeScript", "Prisma", "Socket.io"],
-    liveUrl: "#",
-    githubUrl: "#",
-    featured: true,
-  },
-  {
-    title: "Weather Dashboard",
-    description:
-      "Beautiful weather app with location-based forecasts and charts",
-    image: "/weather-dashboard.png",
-    technologies: ["Vue.js", "Chart.js", "OpenWeather API"],
-    liveUrl: "#",
-    githubUrl: "#",
-    featured: false,
-  },
-  {
-    title: "Social Media Analytics",
-    description: "Analytics dashboard for social media performance tracking",
-    image: "/social-media-analytics-dashboard.png",
-    technologies: ["React", "D3.js", "Python", "FastAPI"],
-    liveUrl: "#",
-    githubUrl: "#",
-    featured: false,
-  },
-  {
-    title: "AI Chat Assistant",
-    description:
-      "Intelligent chatbot with natural language processing capabilities",
-    image: "/modern-ai-chatbot.png",
-    technologies: ["Next.js", "OpenAI API", "Tailwind"],
-    liveUrl: "#",
+      "Full-stack e-commerce solution with React, Django, and Stripe integration",
+    image: "/ecommerce.png",
+    technologies: ["React", "Django", "postgresql", "razorpay"],
+    liveUrl: "https://www.transfinity.shop/",
     githubUrl: "#",
     featured: true,
   },
@@ -75,11 +37,11 @@ const projects = [
     title: "Portfolio Website",
     description:
       "Responsive portfolio website with modern animations and dark mode",
-    image: "/modern-portfolio-website.png",
+    image: "/portfolio.png",
     technologies: ["Next.js", "Framer Motion", "Tailwind"],
     liveUrl: "https://chan-portfolio-topaz.vercel.app/",
     githubUrl: "https://github.com/sivachan03/Chan_portfolio",
-    featured: false,
+    featured: true,
   },
 ];
 
