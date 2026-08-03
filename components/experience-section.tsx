@@ -13,6 +13,28 @@ import { Calendar, MapPin } from "lucide-react";
 
 const experiences = [
   {
+    title: "Full Stack & AI Developer",
+    company: "Engen Consulting & Business Solutions",
+    location: "Bengaluru , Karnataka ",
+    period: "July 2026 – Present",
+    description:
+      "• Developed AI-powered workflow automation solutions using n8n and LLMs. Built RAG-based applications with LangChain and ChromaDB.• Developed REST APIs using Python • Integrated AI agents with business workflows.• Containerized applications using Docker and deployed to cloud platforms.,",
+    technologies: [
+      "Angular",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MySQL",
+      "REST API",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Git",
+      "Docker",
+    ],
+  },
+  {
     title: "AI Automation Developer",
     company: "Gotoz Technology ",
     location: "Erode , TamilNadu",
