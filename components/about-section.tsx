@@ -74,7 +74,7 @@ export function AboutSection() {
               <div className="w-40 sm:w-48 h-40 sm:h-48 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full flex items-center justify-center">
                 <div className="w-36 sm:w-40 h-36 sm:h-40 bg-card rounded-full flex items-center justify-center shadow-2xl overflow-hidden">
                   <img
-                    src="/me.jpeg"
+                    src="/me2.jpeg"
                     alt="Siva Chandran"
                     className="w-full h-full object-cover rounded-full"
                   />
